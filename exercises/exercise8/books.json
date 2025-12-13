@@ -1,0 +1,40 @@
+{
+  "books": [
+    {
+      "title": "Effective Java",
+      "publishedYear": 2018,
+      "numberOfPages": 416,
+      "authors": [
+        "Joshua Bloch"
+      ]
+    },
+    {
+      "title": "Design Patterns",
+      "publishedYear": 1994,
+      "numberOfPages": 395,
+      "authors": [
+        "Erich Gamma",
+        "Richard Helm",
+        "Ralph Johnson",
+        "John Vlissides"
+      ]
+    },
+    {
+      "title": "The Pragmatic Programmer",
+      "publishedYear": 1999,
+      "numberOfPages": 352,
+      "authors": [
+        "Andrew Hunt",
+        "David Thomas"
+      ]
+    },
+    {
+      "title": "Clean Code",
+      "publishedYear": 2008,
+      "numberOfPages": 464,
+      "authors": [
+        "Robert C. Martin"
+      ]
+    }
+  ]
+}

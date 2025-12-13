@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BookShelf>
+      
+  <Book>
+            
+    <title>Effective Java</title>
+            
+    <publishedYear>2018</publishedYear>
+            
+    <numberOfPages>416</numberOfPages>
+            
+    <authors>
+                  
+      <author>Joshua Bloch</author>
+              
+    </authors>
+        
+  </Book>
+      
+  <Book>
+            
+    <title>Design Patterns</title>
+            
+    <publishedYear>1994</publishedYear>
+            
+    <numberOfPages>395</numberOfPages>
+            
+    <authors>
+                  
+      <author>Erich Gamma</author>
+                  
+      <author>Richard Helm</author>
+                  
+      <author>Ralph Johnson</author>
+                  
+      <author>John Vlissides</author>
+              
+    </authors>
+        
+  </Book>
+      
+  <Book>
+            
+    <title>The Pragmatic Programmer</title>
+            
+    <publishedYear>1999</publishedYear>
+            
+    <numberOfPages>352</numberOfPages>
+            
+    <authors>
+                  
+      <author>Andrew Hunt</author>
+                  
+      <author>David Thomas</author>
+              
+    </authors>
+        
+  </Book>
+  
+  <Book>
+    <title>Clean Code</title>
+    <publishedYear>2008</publishedYear>
+    <numberOfPages>464</numberOfPages>
+    <authors>
+      <author>Robert C. Martin</author>
+    </authors>
+  </Book>
+</BookShelf>
